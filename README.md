@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leonardo! 👋
 
-Sou um desenvolvedor Full Stack especializado em Django e apaixonado por automação. Trabalho principalmente com Django, Python, SQL e adoro transformar ideias em soluções práticas.
+Sou um desenvolvedor Full Stack Django e apaixonado por automação. Trabalho principalmente com Django, Python, SQL e adoro transformar ideias em soluções práticas.
 
 #### Principais Habilidades:
 - Django
